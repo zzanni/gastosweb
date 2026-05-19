@@ -1,0 +1,27 @@
+﻿{
+    "scripts":  {
+                    "build":  "echo \u0027Build script\u0027",
+                    "android":  "npx cap sync android \u0026\u0026 npx cap open android",
+                    "test":  "echo \u0027Test script\u0027"
+                },
+    "description":  "AplicaciÃ³n para dividir gastos entre amigos",
+    "dependencies":  {
+
+                     },
+    "version":  "1.0.0",
+    "author":  "Tu Nombre",
+    "name":  "cuanto-gastamos",
+    "main":  "index.js",
+    "devDependencies":  {
+                            "@capacitor/cli":  "^5.0.0",
+                            "@capacitor/android":  "^5.0.0",
+                            "@capacitor/core":  "^5.0.0"
+                        },
+    "license":  "MIT",
+    "keywords":  [
+                     "gastos",
+                     "divisiÃ³n",
+                     "pwa",
+                     "android"
+                 ]
+}

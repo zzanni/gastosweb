@@ -1,0 +1,8 @@
+{
+  "appId": "com.divisiongastos.app",
+  "appName": "Cuanto Gastamos",
+  "webDir": "web",
+  "server": {
+    "androidScheme": "https"
+  }
+}
